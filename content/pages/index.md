@@ -14,15 +14,6 @@ sections:
     title: Louloudis
     text: ''
     actions:
-      - type: Button
-        label: Try it now
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
       - type: Link
         label: 3D
         altText: ''
