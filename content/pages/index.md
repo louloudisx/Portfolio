@@ -23,7 +23,7 @@ sections:
         iconPosition: right
         elementId: ''
       - type: Link
-        label: ART
+        label: ART PROJECTS
         altText: ''
         url: /
         showIcon: false
