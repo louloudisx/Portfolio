@@ -32,7 +32,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
-        borderWidth: 3
+        borderWidth: 0
       title:
         textAlign: left
       subtitle:
