@@ -24,7 +24,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: Learn more
+        label: 3D
         altText: ''
         url: /
         showIcon: true
