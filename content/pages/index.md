@@ -23,7 +23,7 @@ sections:
         iconPosition: right
         elementId: ''
       - type: Link
-        label: Learn more
+        label: ART
         altText: ''
         url: /
         showIcon: false
